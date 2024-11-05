@@ -1271,7 +1271,6 @@ async function proxyURL(proxyURL, url) {
 function checkSUB(host) {
 	if ((!sub || sub == '') && (addresses.length + addressesapi.length + addressesnotls.length + addressesnotlsapi.length + addressescsv.length) == 0){
 		addresses = [
-			'Join.my.Telegram.channel.CMLiussss.to.unlock.more.premium.nodes.cf.090227.xyz#加入我的频道t.me/CMLiussss解锁更多优选节点',
 			'127.0.0.1:1234#CFnat',
 			'visa.cn:443',
 			'singapore.com:8443',
@@ -1455,10 +1454,6 @@ ${v2ray}
 clash-meta
 ---------------------------------------------------------------
 ${clash}
----------------------------------------------------------------
-################################################################
-telegram 交流群 技术大佬~在线发牌!
-https://t.me/CMLiussss
 ---------------------------------------------------------------
 github 项目地址 Star!Star!Star!!!
 https://github.com/cmliu/edgetunnel
